@@ -1,0 +1,26 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.card {
+  border-left: 3px solid gray;
+}
+
+.form-inline {
+  display: flex;
+  width: 500px;
+  // background:red;
+}
+
+.input-form {
+  display: flex;
+  flex: 1 1 auto;
+  // width: auto;
+}
+
+.button {
+  border-radius: 5px;
+  color: white;
+  background: lightblue;
+}
+
+
